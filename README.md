@@ -13,7 +13,7 @@
 
 
 ### 🎨 界面展示
-<img src="./res/img000.png" alt="EXPaste演示" width="250"/>
+<img src="./res/img000.png" alt="EXPaste演示" width="500"/>
 </div>
 
 ## 项目简介
